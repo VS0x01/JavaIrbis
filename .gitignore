@@ -27,6 +27,7 @@ target/
 
 # IDEA files
 .idea/
+*.iml
 
 # PVS-Studio
 .PVS-Studio/
